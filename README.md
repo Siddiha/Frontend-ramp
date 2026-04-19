@@ -1,4 +1,4 @@
-# Frontend-Ramp 🎮
+# Frontend-Ramp 
 
 A 2D platformer game built with the **Godot Engine**.
 
